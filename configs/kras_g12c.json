@@ -1,0 +1,8 @@
+{
+  "drug": "KRAS G12C",
+  "drug_lower": "kras g12c",
+  "condition": "Adults with KRAS G12C-mutant advanced NSCLC",
+  "slug": "kras_g12c",
+  "source_repo": "C:\\Projects\\KRAS_G12C_LivingMeta",
+  "source_html": "KRAS_G12C_NSCLC_REVIEW.html"
+}
